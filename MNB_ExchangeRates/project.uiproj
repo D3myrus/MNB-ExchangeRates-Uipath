@@ -1,0 +1,6 @@
+{
+  "Name": "MNB_ExchangeRates",
+  "ProjectType": "Process",
+  "Description": "MNB daily FX to Excel",
+  "MainFile": "Main.xaml"
+}
